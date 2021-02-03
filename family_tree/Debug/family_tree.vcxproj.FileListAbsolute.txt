@@ -1,0 +1,2 @@
+D:\VS\family_tree\Debug\FamilyTree.exe
+D:\VS\family_tree\Debug\FamilyTree.pdb
